@@ -1,0 +1,106 @@
+/* Estilo global */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #F4F1DE; /* Color de fondo pastel claro */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Cabecera */
+header {
+    background-color: #C8D5B9; /* Verde pastel */
+    padding: 20px;
+    text-align: center;
+    border-bottom: 5px solid #E07A5F; /* Línea de separación en tono coral pastel */
+}
+
+header h1 {
+    font-size: 3em;
+    color: #3D405B; /* Azul grisáceo pastel */
+    margin: 0;
+}
+
+/* Menú de navegación */
+nav {
+    margin: 20px 0;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    color: #81B29A; /* Verde agua pastel */
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #F2CC8F; /* Amarillo pastel */
+}
+
+/* Sección principal */
+main {
+    padding: 40px 20px;
+    background-color: #EAE7DC; /* Fondo pastel más suave */
+}
+
+main h2 {
+    color: #3D405B; /* Azul grisáceo pastel */
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+main p {
+    line-height: 1.6;
+    font-size: 1.1em;
+    color: #333;
+}
+
+/* Tarjetas de pájaros */
+.bird-card {
+    background-color: #FFFFFF;
+    border: 2px solid #C8D5B9;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.bird-card h3 {
+    color: #81B29A;
+    font-size: 1.8em;
+}
+
+.bird-card p {
+    font-size: 1.1em;
+}
+
+/* Footer */
+footer {
+    background-color: #C8D5B9; /* Verde pastel */
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+footer p {
+    font-size: 1em;
+    color: #3D405B;
+}
+
+/* Botones */
+button {
+    background-color: #81B29A; /* Verde agua pastel */
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #E07A5F; /* Coral pastel */
+}
