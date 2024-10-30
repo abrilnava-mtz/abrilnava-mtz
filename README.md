@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 ## Proyectos *INSANE*
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 <h3 align="center">Curso HTML Básico</h3>
 <div align="center">
-<a href="https://github.com/abrilnava-mtz/abrilnava-mtz" target="_blank"><img src="https://github.com/abrilnava-mtz/abrilnava-mtz/blob/main/HTML.png" width="400" alt="Curso básico HTML"></a>
+<a href="https://github.com/abrilnava-mtz/abrilnava-mtz" target="_blank"><img src="https://github.com/abrilnava-mtz/abrilnava-mtz/blob/main/ae3ed5f8-5676-4fdd-a57c-6e947fcfbba3.jpeg" width="400" alt="Curso básico HTML"></a>
 <p>
 <a href="https://github.com/abrilnava-mtz/abrilnava-mtz" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 
 </td>
 
-<td width="50%">
+<td width="33%">
                <br>
 <h3 align="center">INCORPORACION DE CSS</h3>
 <div align="center">
-<a href="https://github.com/eabrilnava-mtz/abrilnava-mtz" target="_blank"><img src="https://github.com/abrilnava-mtz/abrilnava-mtz/blob/main/HTML-CSS.png" width="400" alt="Curso básico HTML con CSS"></a>
+<a href="https://github.com/eabrilnava-mtz/abrilnava-mtz" target="_blank"><img src="https://github.com/abrilnava-mtz/abrilnava-mtz/blob/main/PAPELERIA%202.jpeg" width="400" alt="Curso básico HTML con CSS"></a>
 <p>
 <a href="https://youtu.be/bz1PZgqe7qQ?si=5Iz2TntHNeRKNN0H"_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
   
 
-<td width="50%">
+<td width="33%">
                <br>
 <h3 align="center">PROGRAMMING</h3>
 <div align="center">                                      
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://github.com/abrilnava-mtz/abrilnava-mtz/blob/main/ae3ed5f8-5676-4fdd-a57c-6e947fcfbba3.jpeg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
