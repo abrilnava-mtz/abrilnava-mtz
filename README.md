@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Banner Coquette](https://github.com/abrilnava-mtz/abrilnava-mtz/blob/main/Banner%20Horizontal%20Minimalista%20Joyer%C3%ADa.png)
+![Banner Coquette](https://github.com/abrilnava-mtz/abrilnava-mtz/blob/main/tryballmontere.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnkVvthXz83JIWeuo3W6cJA)
 [![Twitter](https://img.shields.io/twitter/follow/_mnnavaa)](https://x.com/_mnnavaa)
