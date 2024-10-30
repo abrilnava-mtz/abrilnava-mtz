@@ -23,25 +23,43 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: INSANE
 -->
 
-  ## Proyectos *PROGRAMACION QUINTO SEMESTRE*
+## Proyectos *INSANE*
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Curso HTML Básico</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/abrilnava-mtz/abrilnava-mtz" target="_blank"><img src="https://github.com/abrilnava-mtz/abrilnava-mtz/blob/main/HTML.png" width="400" alt="Curso básico HTML"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/abrilnava-mtz/abrilnava-mtz" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://youtu.be/P7md8VVR1I8?si=PQvvO-hUZYoXIsvJ"_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Aprende a programar con HTML <strong>Como hacer una pagina web basica</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
 </div>
 
 </td>
+
+<td width="50%">
+               <br>
+<h3 align="center">INCORPORACION DE CSS</h3>
+<div align="center">
+<a href="https://github.com/eabrilnava-mtz/abrilnava-mtz" target="_blank"><img src="https://github.com/abrilnava-mtz/abrilnava-mtz/blob/main/HTML-CSS.png" width="400" alt="Curso básico HTML con CSS"></a>
+<p>
+<a href="https://youtu.be/bz1PZgqe7qQ?si=5Iz2TntHNeRKNN0H"_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/P7md8VVR1I8?si=PQvvO-hUZYoXIsvJ"_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
+</a>
+</p>
+<p>Aprende a integrar CSS a tu HTML <strong>Como podras dar un diseño a tu paguina web</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+</div>
+
+  
 
 <td width="50%">
                <br>
