@@ -60,3 +60,13 @@ Here are some ideas to get you started:
 </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
 </div>                                                            
 </table>
+
+## GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/abrilnava-mtz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abrilnava-mtz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abrilnava-mtz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<br>
